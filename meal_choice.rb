@@ -1,6 +1,5 @@
-def meal_choice(choice = "meat")
-  puts "#{choice}"
+def expect(meal_choice = "meat")
+  puts "#{meal_choice}"
 end
 
-meal_choice
-
+expect
